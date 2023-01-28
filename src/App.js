@@ -11,7 +11,7 @@ const App = () => {
       <h1>{counter}</h1>
       <button onClick={() => setCounter((prevCounter) => prevCounter + 1)}>+</button>
     <div>
-      <h1>Druga verzija verzija</h1>
+      <h1>Druga verzija</h1>
     </div>
     </div>
   );
